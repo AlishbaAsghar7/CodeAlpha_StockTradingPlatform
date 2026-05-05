@@ -1,0 +1,16 @@
+===== TRANSACTION HISTORY =====
+
+Type       : SELL
+Symbol     : AMZN
+Quantity   : 4
+Price/Share: Rs 16442.21
+Total      : Rs 65768.84
+Date/Time  : 2026-05-05 10:47:08
+------------------------------
+Type       : SELL
+Symbol     : AAPL
+Quantity   : 2
+Price/Share: Rs 18744.34
+Total      : Rs 37488.68
+Date/Time  : 2026-05-05 10:47:24
+------------------------------

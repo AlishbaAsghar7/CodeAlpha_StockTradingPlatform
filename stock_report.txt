@@ -1,0 +1,18 @@
+========================================
+       STOCK TRADING PLATFORM REPORT    
+========================================
+
+TRADER      : Trader
+Cash Balance: Rs 666.36
+Portfolio   : Rs 101216.9
+Total Assets: Rs 101883.26
+Profit/Loss : Rs -59.62 (LOSS)
+
+--- CURRENT HOLDINGS ---
+  AAPL | Qty: 2 | Avg Buy: Rs 18134.36 | Current: Rs 18322.21 | P/L: Rs 375.7
+  AMZN | Qty: 4 | Avg Buy: Rs 16251.95 | Current: Rs 16143.12 | P/L: Rs -435.32
+
+--- TRANSACTION HISTORY ---
+No transactions yet.
+
+========================================
